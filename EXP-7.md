@@ -18,6 +18,8 @@ code = encode(msg, n, k, 'cyclic');
 msg
 code
 # ENCODING OUTPUT:
+<img width="432" height="346" alt="Screenshot 2026-08-27 133457" src="https://github.com/user-attachments/assets/a87282df-03ba-474d-af40-3526ade52646" />
+
 
 # DECODING PROGRAM:
 clc;
@@ -51,6 +53,8 @@ corrvect
 correctedcode
 
 # DECODING OUTPUT:
+<img width="437" height="257" alt="Screenshot 2026-08-27 143558" src="https://github.com/user-attachments/assets/1977c083-8389-4ffb-9132-e03389bb12ea" />
+
 
 # RESULT:
 Thus encoding and decoding of block codes are performed using MATLAB.
