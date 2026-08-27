@@ -53,6 +53,8 @@ ylabel('Amplitude');
 title('BFSK Modulated Output');
 
 # OUTPUT:
+<img width="620" height="442" alt="Screenshot 2026-08-27 133216" src="https://github.com/user-attachments/assets/b7dad906-eb7e-430d-97b4-286c6ab7c0f7" />
+
 
 # RESULT:
 Thus, generation of FSK was implemented using MATLAB.
