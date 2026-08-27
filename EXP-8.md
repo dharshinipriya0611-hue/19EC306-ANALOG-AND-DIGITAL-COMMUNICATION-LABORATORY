@@ -87,6 +87,8 @@ Ensemble 5
 0.4
 
 # OUTPUT:
+<img width="333" height="312" alt="Screenshot 2026-08-27 135119" src="https://github.com/user-attachments/assets/74837e86-e3c3-48ff-889f-e818f8719168" />
+
 
 
 # RESULT:
