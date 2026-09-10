@@ -28,12 +28,14 @@ c)	Modulation index greater than 1
 
 
 # MODEL GRAPH:
-<img width="958" height="1345" alt="image" src="https://github.com/user-attachments/assets/37a4344a-d392-418f-84ea-671ac6cf7138" />
+<img width="692" height="877" alt="image" src="https://github.com/user-attachments/assets/981b2005-6bbf-407f-9ceb-b698ffab02e1" />
+
 
 # GRAPH:
-
+<img width="1152" height="1527" alt="image" src="https://github.com/user-attachments/assets/e43fc11e-16f8-4fb5-8650-1e45ebdbb6de" />
 
 # TABULATION:
+<img width="1600" height="1053" alt="image" src="https://github.com/user-attachments/assets/8c9c2caf-6740-4301-ad94-01eeca010cdf" />
 
 
 # RESULT:
