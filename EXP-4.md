@@ -1,4 +1,4 @@
-# Aim:
+# AIM:
 To obtain Pulse Width Modulation & Demodulation using PCM trainer kit.
 
 # THEORY:
@@ -22,15 +22,21 @@ Keep CH1 knob of CRO on 1 Volt/ divac. Keep CH2 knob of CRO on 2 Volts/ divac. K
 Keep the CRO in Dual channel (Auto/ TV mode). Use X10 for expansion. After proper triggering of CRO, observe both the signals PWM IN and PWM
 
 # BLOCK DIAGRAM:
-<img width="803" height="922" alt="image" src="https://github.com/user-attachments/assets/2b5805a5-8c98-4a76-a244-c704b97bba63" />
+<img width="583" height="635" alt="image" src="https://github.com/user-attachments/assets/d65bb3f0-2085-4c10-ad1a-197605f35c6f" />
 
-# Tabulation:
 
-# Model Graph:
-<img width="697" height="81" alt="image" src="https://github.com/user-attachments/assets/aa4034f9-a0d1-46b9-a323-56edaa038f22" />
+# TABULATION:
+<img width="1600" height="1322" alt="image" src="https://github.com/user-attachments/assets/560f463a-618e-4572-aa89-819b16a5ccc3" />
+
+
+# MODEL GRAPH:
+<img width="512" height="473" alt="image" src="https://github.com/user-attachments/assets/b6501fbc-2066-4374-b1ed-23b1107a34ca" />
+
 
 # OUTPUT GRAPH:
+<img width="1600" height="833" alt="image" src="https://github.com/user-attachments/assets/ecaf621e-08e7-4221-a154-a5be18ae8e01" />
 
-# Result:
+
+# RESULT:
 Thus the pulse width modulated and demodulated signals is generated and output is verified.
 
