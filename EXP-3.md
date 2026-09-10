@@ -1,4 +1,4 @@
-# Aim:
+# AIM:
 To obtain Pulse Amplitude Modulation & Demodulation using trainer kit.
 
 # THEORY
